@@ -10,7 +10,7 @@ const TRUE = 1
 const FALSE = 0
 
 #
-# Message Config
+# Message Config set
 #
 
 const STARKNET_MESSAGE_PREFIX = 'StarkNet Message'
